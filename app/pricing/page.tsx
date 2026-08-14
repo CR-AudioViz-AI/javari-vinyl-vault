@@ -127,7 +127,7 @@ export default function PricingPage() {
             </Link>
             <div className="flex items-center gap-4">
               <Link href="/login" className="text-gray-400 hover:text-white transition">Login</Link>
-              <Link href="/signup" className="px-4 py-2 bg-purple-600 hover:bg-purple-500 rounded-lg transition">
+              <Link href="https://craudiovizai.com/signup" className="px-4 py-2 bg-purple-600 hover:bg-purple-500 rounded-lg transition">
                 Start Free
               </Link>
             </div>
@@ -257,7 +257,7 @@ export default function PricingPage() {
             Start free with 50 credits. No credit card required.
           </p>
           <Link 
-            href="/signup"
+            href="https://craudiovizai.com/signup"
             className="inline-flex items-center gap-2 px-10 py-5 bg-white text-gray-900 hover:bg-gray-100 rounded-xl text-xl font-bold transition"
           >
             Start Your Free Trial
