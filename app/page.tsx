@@ -37,7 +37,7 @@ export default function Home() {
             transition={{ delay: 0.3 }}
             className="flex gap-4 justify-center"
           >
-            <a href="/dashboard" className="px-8 py-4 bg-brand-cyan text-brand-navy font-semibold rounded-lg hover:bg-cyan-400 transition">
+            <a href="https://craudiovizai.com/dashboard" className="px-8 py-4 bg-brand-cyan text-brand-navy font-semibold rounded-lg hover:bg-cyan-400 transition">
               Start Collecting
             </a>
             <a href="#features" className="px-8 py-4 border border-white/30 rounded-lg hover:bg-white/10 transition">
@@ -81,7 +81,7 @@ export default function Home() {
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-3xl font-bold mb-6">Start Your Collection Today</h2>
           <p className="text-gray-400 mb-8">Join collectors worldwide using VinylVault to manage their vinyl records.</p>
-          <a href="/signup" className="inline-block px-10 py-4 bg-brand-red text-white font-semibold rounded-lg hover:bg-red-600 transition">
+          <a href="https://craudiovizai.com/signup" className="inline-block px-10 py-4 bg-brand-red text-white font-semibold rounded-lg hover:bg-red-600 transition">
             Create Free Account
           </a>
         </div>
