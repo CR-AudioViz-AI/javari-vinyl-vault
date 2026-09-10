@@ -88,7 +88,7 @@ export default function Home() {
       </section>
 
       {/* Footer */}
-      <footer className="py-8 px-6 border-t border-white/10">
+      <footer data-app-chrome className="py-8 px-6 border-t border-white/10">
         <div className="max-w-6xl mx-auto flex justify-between items-center">
           <p className="text-gray-500">© 2025 CR AudioViz AI LLC. Part of Javari Collectors.</p>
           <div className="flex gap-6">
